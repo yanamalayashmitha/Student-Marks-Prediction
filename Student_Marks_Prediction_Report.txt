@@ -1,0 +1,53 @@
+
+===========================================
+       STUDENT MARKS PREDICTION
+       ===========================================
+
+       1. PROJECT INTRODUCTION
+
+       This project predicts student marks based on
+       the number of hours spent studying using
+       Machine Learning.
+
+       2. OBJECTIVE
+
+       To build a machine learning model that predicts
+       student marks based on study hours.
+
+       3. TECHNOLOGIES USED
+
+       - Python
+       - Google Colab
+       - Pandas
+       - Matplotlib
+       - Scikit-learn
+       - Linear Regression
+
+       4. DATASET
+
+       The dataset contains study hours and the
+       corresponding marks of 10 students.
+
+       5. ALGORITHM
+
+       Linear Regression is used to learn the
+       relationship between study hours and marks.
+
+       6. MODEL EVALUATION
+
+       The model is evaluated using Mean Absolute
+       Error (MAE) and R-squared score.
+
+       7. APPLICATION
+
+       The application accepts study hours and
+       predicts the student's expected marks.
+
+       8. CONCLUSION
+
+       This project demonstrates how machine learning
+       can be used to predict student marks based on
+       study hours.
+
+       ===========================================
+       
